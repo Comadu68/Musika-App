@@ -20,8 +20,9 @@ Musika is a modern, high-performance Android music player built in 100% Kotlin a
 - 💾 **Smart Offline Downloads**:
   - Multi-segment parallel background downloader with notification controls and storage quotas.
 - 🚀 **In-App Auto-Updates**:
-  - Built-in update engine powered directly by GitHub Releases.
-  - Check, download, and install updates with a single tap inside **Settings → Updates & Version** without manually hunting for APK files.
+  - Automatically checks for updates on the first app launch of each day and presents an interactive glassmorphic update prompt with release notes.
+  - One-tap background download with live progress and automatic installation.
+  - Manual check anytime via **Settings → Updates & Version**.
 
 ---
 
