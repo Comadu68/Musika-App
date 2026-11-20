@@ -30,7 +30,7 @@ Musika is a modern, high-performance Android music player built in 100% Kotlin a
 
 Download the latest release APK from our official Releases page:
 
-👉 **[Download Musika v1.0.5 APK](https://github.com/Comadu68/Musika-App/releases/latest/download/Musika-v1.0.5-Release.apk)**
+👉 **[Download Musika v1.0.6 APK](https://github.com/Comadu68/Musika-App/releases/latest/download/Musika-v1.0.6-Release.apk)**
 
 1. Transfer or download the APK to your Android device (Android 8.0+ supported, Android 11+ recommended).
 2. Tap the APK to install. (Allow installation from unknown sources if prompted).
